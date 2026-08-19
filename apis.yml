@@ -32,7 +32,7 @@ x-status-detail: Merged into American Tower Corporation, January 2000; approxima
   $198.1 million total consideration ($149.4M cash + $48.7M assumed debt). Evidence
   at https://americantower.gcs-web.com/news-releases/news-release-details/american-tower-corporation-announces-merger-unisite-inc
   and https://www.sec.gov/Archives/edgar/data/1053507/0000927016-00-000225.txt
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-21'
 tags:
